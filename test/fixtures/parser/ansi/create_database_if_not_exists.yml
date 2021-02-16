@@ -8,4 +8,3 @@ file:
     - keyword: exists
     - database_reference:
         identifier: my_database
-
